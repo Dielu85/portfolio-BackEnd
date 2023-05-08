@@ -1,0 +1,7 @@
+com\portfoliodg\SpringBoot\Application.class
+com\portfoliodg\SpringBoot\service\PersonaService.class
+com\portfoliodg\SpringBoot\repository\PersonaRepository.class
+com\portfoliodg\SpringBoot\model\Persona.class
+com\portfoliodg\SpringBoot\service\IPersonaService.class
+com\portfoliodg\SpringBoot\controller\Controller.class
+com\portfoliodg\SpringBoot\WebConfig.class
